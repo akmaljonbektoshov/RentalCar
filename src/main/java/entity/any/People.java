@@ -13,4 +13,6 @@ public class People {
         this.email = email;
         this.password = password;
     }
+
+    ///  Bu shunchake test uchun yozilgan class hisoblanadi
 }
