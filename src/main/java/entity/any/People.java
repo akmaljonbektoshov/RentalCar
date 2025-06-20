@@ -15,4 +15,10 @@ public class People {
     }
 
     ///  Bu shunchake test uchun yozilgan class hisoblanadi
+
+    public static void method(String text) {
+        if (text.isEmpty()) {
+            System.out.println("Text is empty.");
+        }
+    }
 }
