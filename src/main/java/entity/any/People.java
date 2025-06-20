@@ -8,4 +8,9 @@ public class People {
     public People(String name) {
         this.name = name;
     }
+
+    public People(String email, String password) {
+        this.email = email;
+        this.password = password;
+    }
 }
